@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .app import views
+from app import views
 
 app = FastAPI()
 
